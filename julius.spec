@@ -1,11 +1,11 @@
 Summary:	An open source re-implementation of Caesar III
 Name:		julius
-Version:	1.5.1
+Version:	1.6.0
 Release:	1
 License:	AGPL v3+
 Group:		X11/Applications/Games
 Source0:	https://github.com/bvschaik/julius/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	4e21f6e2f49a88cb8b6c92afd9c368cc
+# Source0-md5:	5867699b7348922b48218ee3dfed60f1
 URL:		https://github.com/bvschaik/julius
 BuildRequires:	SDL2-devel
 BuildRequires:	SDL2_mixer-devel
