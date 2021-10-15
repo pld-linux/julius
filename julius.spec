@@ -11,6 +11,7 @@ BuildRequires:	SDL2-devel
 BuildRequires:	SDL2_mixer-devel
 BuildRequires:	cmake >= 3.0.2
 BuildRequires:	libpng-devel
+BuildRequires:	rpmbuild(macros) >= 1.605
 Requires(post,postun):	desktop-file-utils
 Requires(post,postun):	gtk-update-icon-cache
 Requires:	hicolor-icon-theme
